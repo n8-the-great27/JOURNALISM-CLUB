@@ -1,10 +1,15 @@
 body{
   background-color: rgba(242, 240, 239, 1)
-}
+} 
+
+<!--This is for the background color-->
 
 .navbar {
   display: flex;
-  justify-content: space-between; /* Pushes logo and links to opposite ends */
-  align-items: center;            /* Vertically centers items */
-  gap: 20px;                      /* Clean spacing without messy margins */
+  justify-content: space-between; 
+  align-items: center;            
+  gap: 20px;                      
 }
+
+
+
