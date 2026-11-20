@@ -5,9 +5,10 @@ body{
 <!--This is for the background color-->
 
 .navbar {
-display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 24px;
+  display: flex;
+  justify-content: space-between; 
+  align-items: center; 
+  gap: 20px;  
 }                    
 
 
