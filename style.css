@@ -2,3 +2,9 @@ body{
   background-color: rgba(242, 240, 239, 1)
 }
 
+.navbar {
+  display: flex;
+  justify-content: space-between; /* Pushes logo and links to opposite ends */
+  align-items: center;            /* Vertically centers items */
+  gap: 20px;                      /* Clean spacing without messy margins */
+}
