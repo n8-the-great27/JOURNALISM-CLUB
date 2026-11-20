@@ -1,16 +1,10 @@
-body{
-  background-color: rgba(242, 240, 239, 1)
-} 
+body {
+  background-color: rgba(242, 240, 239, 1);
+}
 
-<!--This is for the background color-->
+/* Page background color */
 
-.navbar {
-  display: flex;
-  justify-content: space-between; 
-  align-items: center; 
-  gap: 20px; 
-}                    
-
-
-
-
+.nav-links {
+  display: inline-block;
+  margin-right: 20px;
+}
